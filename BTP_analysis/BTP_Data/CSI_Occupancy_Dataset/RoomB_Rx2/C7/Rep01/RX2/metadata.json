@@ -1,0 +1,22 @@
+{
+    "capture_datetime": "2026-11-08T17:25:01.428591",
+    "room": "RoomB",
+    "test_case": "C7",
+    "repetition": 1,
+    "people": 3,
+    "motion": "static",
+    "receiver": "RX2",
+    "serial_port": "COM12",
+    "router": "RoomA_Router",
+    "duration_seconds": 120,
+    "notes": "3_sitting",
+    "valid_csi_records": 1002,
+    "firmware_statistics": {
+        "callback_packets": 1002,
+        "matched_packets": 1002,
+        "queue_drops": 0,
+        "oversized_packets": 0,
+        "sent_packets": 1002,
+        "elapsed_ms": 120000
+    }
+}

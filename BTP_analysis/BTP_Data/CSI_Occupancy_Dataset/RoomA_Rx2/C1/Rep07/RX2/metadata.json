@@ -1,0 +1,22 @@
+{
+    "capture_datetime": "2026-11-07T17:10:36.520122",
+    "room": "RoomA",
+    "test_case": "C1",
+    "repetition": 7,
+    "people": 0,
+    "motion": "nothing",
+    "receiver": "RX2",
+    "serial_port": "COM11",
+    "router": "RoomA_Router",
+    "duration_seconds": 120,
+    "notes": "Empty room",
+    "valid_csi_records": 1129,
+    "firmware_statistics": {
+        "callback_packets": 1129,
+        "matched_packets": 1129,
+        "queue_drops": 0,
+        "oversized_packets": 0,
+        "sent_packets": 1129,
+        "elapsed_ms": 120000
+    }
+}
