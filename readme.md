@@ -418,7 +418,7 @@ Further evaluation investigates recording-level predictions and consistency acro
 ### Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Charan060706/BTP-Analysis
 cd BTP-Analysis
 ```
 
