@@ -635,6 +635,11 @@ venv\Scripts\activate
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter joblib
 ```
+or you can directly install by requirments.txt file 
+
+```bash
+pip install requirements.txt 
+```
 
 Additional libraries may be required by individual scripts or notebooks.
 
